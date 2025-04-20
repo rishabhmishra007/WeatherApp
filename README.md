@@ -1,12 +1,37 @@
-# React + Vite
+# ☁️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and user-friendly **Weather App** built using **React.js**, styled with **Tailwind CSS**, and hosted on **Vercel** for real-time weather updates.
 
-Currently, two official plugins are available:
+![Screenshot 2025-04-20 194207](https://github.com/user-attachments/assets/3dbd3c3c-c2b1-4622-a2dc-15760b57b785)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Live Weather Data** – Fetch current weather conditions for any location.
+- **City Search** – Enter city names to get instant weather updates.
+- **Dynamic UI** – Visually responsive design that adapts to weather conditions.
+- **Unit Conversion** – Toggle between Celsius and Fahrenheit.
+- **Responsive Design** – Fully optimized for mobile and desktop users.
+
+## 🛠️ Technologies Used
+
+- **React.js** – Component-based UI framework.
+- **Tailwind CSS** – Utility-first CSS for styling.
+- **Vercel** – Cloud platform for deployment.
+- **Weather API** – External API integration for real-time weather data.
+
+## 📸 Preview
+
+Check out the live demo here: [Live Project](https://weather-app-omega-nine-99.vercel.app/)
+
+## ⚡ Getting Started
+
+To run the project locally, follow these steps:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/weather-app.git
+cd weather-app
+npm i
+npm run dev
